@@ -79,7 +79,7 @@ h2 {
 	list-style: none;
 }
 
-.website-header a {
+.website-header ul a {
 	padding: 10px 15px;
 	color: var(--black);
 	text-decoration: none;
@@ -87,7 +87,7 @@ h2 {
 	transition: .3s;
 }
 
-.website-header a:hover {
+.website-header ul a:hover {
 	color: var(--white);
 	background: var(--pink);
 }
